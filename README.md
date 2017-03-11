@@ -1,4 +1,4 @@
-# PhoenixTrello
+#PhoenixTrello
 
 Trello clone using  elixir, phoenix, react. 
 
